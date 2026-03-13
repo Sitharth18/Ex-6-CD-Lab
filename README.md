@@ -1,7 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+# name : SITHARTH B S
 # register number : 212224110048
-# Date : 10 : 03 : 2026
+# Date : 13 : 03 : 2026
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
