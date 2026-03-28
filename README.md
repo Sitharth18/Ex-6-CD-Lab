@@ -1,8 +1,6 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# name : SITHARTH B S
-# register number : 212224110048
-# Date : 13 : 03 : 2026
+# Date : 13/03/2026
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -14,9 +12,6 @@ To write a program to implement the back end of the compiler.
 6. Stop the program.
 # PROGRAM
 ```
-exp6.txt
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -75,20 +70,9 @@ int main() {
     fclose(fp);
     return 0;
 }
-
-
-```
-```
-expr6ip.txt
-
-
-
-t1 = a + b
-t2 = t1 - c
-
 ```
 # OUTPUT
-<img width="991" height="629" alt="image" src="https://github.com/user-attachments/assets/2a9a0403-db51-4c02-aa5e-a9ae252fa761" />
+<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/31637911-d14a-4619-a6fc-c03e1c539fe8" />
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
