@@ -83,9 +83,6 @@ t2 = t1 - c
 
 
 # OUTPUT
-
-
-<img width="1919" height="1199" alt="Screenshot 2026-03-26 194126" src="https://github.com/user-attachments/assets/c96d55de-5cec-4f30-8bef-079e8dfecc60" />
-
+<img width="2592" height="1600" alt="Upscaled Image" src="https://github.com/user-attachments/assets/de389e14-863f-487a-b26c-26f4bfaadd3c" />
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
